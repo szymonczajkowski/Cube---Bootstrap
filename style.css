@@ -8,3 +8,19 @@ a.navbar-brand {
     border: 1;
     margin-bottom: 0;
 }
+
+.header-top-fluid{
+    background-color:aquamarine;
+}
+
+.header-img{
+    width: 100%;
+    max-width: 291px;
+    display: block;
+    margin: 0 auto;
+}
+
+.header-button{
+    border-radius: 0;
+    width: 200px;     
+}
